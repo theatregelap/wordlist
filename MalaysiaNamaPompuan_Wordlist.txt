@@ -1,11 +1,3 @@
-ibu
-bonda
-mak
-nenek
-opah
-mama
-mom
-sayang
 aafiyat
 aarifa
 aatiya
@@ -78,8 +70,8 @@ azarnoush
 azielia
 azizah
 azlene
-azlinhezri
 azlina
+azlinhezri
 azlisya
 bahiyah
 balqish
@@ -91,6 +83,7 @@ bhavini
 bijli
 bindiya
 bisyaarah
+bonda
 bunga
 cahaya
 catherine
@@ -99,8 +92,8 @@ chameli
 chanchala
 charu
 chhavi
-chitze
 chiewhwa
+chitze
 cik
 cindy
 cucu
@@ -189,6 +182,7 @@ huaann
 ibhar
 ibrat
 ibtisama
+ibu
 ida
 idayu
 idha
@@ -214,8 +208,8 @@ janki
 jaya
 jayshree
 jazaa
-jenling
 jenab
+jenling
 joyah
 juhi
 juliyanna
@@ -257,11 +251,11 @@ leela
 leena
 lekha
 lela
-lisze
 lili
 lily
 lina
 linda
+lisze
 liza
 lyana
 maarib
@@ -277,6 +271,8 @@ mahiran
 mahsuri
 maimun
 maimunah
+mak
+mama
 mamta
 manjari
 manju
@@ -321,6 +317,7 @@ minaxi
 mira
 mohaini
 mohini
+mom
 morgiana
 mridula
 mubaraka
@@ -351,6 +348,7 @@ nazira
 nazra
 neela
 neha
+nenek
 netra
 nidhi
 nilima
@@ -377,10 +375,10 @@ norzihan
 nosiah
 nupoor
 nur
-nurhaliza
-nurerlina
 nuraisyah
 nurdinah
+nurerlina
+nurhaliza
 nurjahan
 nurshafira
 nurul
@@ -393,6 +391,7 @@ oindrila
 oja
 omaja
 oorja
+opah
 osmawani
 padmini
 pallavi
@@ -453,6 +452,7 @@ sanabel
 sanisah
 sarah
 sawarn
+sayang
 seniya
 seokteng
 seri
@@ -470,7 +470,6 @@ shuhada
 shuhaizee
 sibgha
 sidratul
-siewsze
 siewsze
 siti
 sitiasma'
